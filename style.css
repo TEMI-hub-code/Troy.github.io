@@ -136,7 +136,12 @@ text-align: center;
 }
 
 .screenshot-img{
-    margin: 5em auto 0;
+    background-image: url(images/banner.png);
+    background-size: cover;
+    height: 80vh;
+    width: 80vw;
+    margin-bottom: 3em;
+    margin-top: 3em;
 
 }
 
